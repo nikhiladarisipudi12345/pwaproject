@@ -1,0 +1,43 @@
+{
+  "basic":{
+    "image":"profile.png",
+    "name":"nikki",
+    "email":"nikhiladarisipudi9@gmail.com",
+    "number":"+91-999999999",
+    "address":"pec,surampalem."
+  },
+  "career":{
+    "info":"to pursue a challenging career"
+  },
+  "education":[
+    {
+      "institute":"pec",
+      "degree":"b.tech",
+      "passout":"2021"
+    },
+    {
+      "institute":"geetam",
+      "degree":"inter",
+      "passout":"2017"
+    },
+    {
+      "institute":"harvest",
+      "degree":"ssc",
+      "passout":"2015"
+    }
+  ],
+  "skills":[
+    {
+      "info":"programming languages",
+      "data":["c,c++,java,python"]
+    },
+    {
+      "info":"database",
+      "data":["oracle,mysql,tindb"]
+    },
+    {
+      "info":"operating systems",
+      "data":["windows,linux,unix"]
+    }
+  ]
+  }
